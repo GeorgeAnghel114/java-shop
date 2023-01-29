@@ -3,7 +3,7 @@
 
 ## Project description:
 
-:small_blue_diamond: E-commerce website where you cand buy phones, laptops and tablets
+:small_blue_diamond: E-commerce website where you can buy phones, laptops and tablets
 
 :small_blue_diamond: You can filter the page by categories or suppliers
 
